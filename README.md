@@ -11,22 +11,22 @@ You will be leading your own project. Think about an object like Book, Person, A
 1. Pick your first task
 2. Create an issue for the task under your chosen entity repository
 3. Complete the listen section (if any)
-4. Complete the refer section (if any)
+4. Complete the read / refer section (if any)
 5. Complete the coding and create the PR (if any)
 6. Merge the PR after the approval
 8. Pick the next task and go to Step 2
 
 ## Tasks
-1. Initialize Console Application
-2. Setup Build
-3. Initialize Unit Test Project
-4. Insert Storage Broker
-5. Add Foundation
-6. Logging Broker
-7. Post Exposer
-8. Select All Storage Broker 
-9. Retrieve All Foundation 
-10. Get All Exposer 
+1. [Initialize Console Application](https://github.com/Mums-Who-Code/C.Sharp.Basic.Software.Operations/blob/main/Tasks/Task%201.md)
+2. [Setup Build](https://github.com/Mums-Who-Code/C.Sharp.Basic.Software.Operations/blob/main/Tasks/Task%202.md)
+3. [Initialize Unit Test Project](https://github.com/Mums-Who-Code/C.Sharp.Basic.Software.Operations/blob/main/Tasks/Task%203.md)
+4. [Insert Storage Broker](https://github.com/Mums-Who-Code/C.Sharp.Basic.Software.Operations/blob/main/Tasks/Task%204.md)
+5. [Add Foundation](https://github.com/Mums-Who-Code/C.Sharp.Basic.Software.Operations/blob/main/Tasks/Task%205.md)
+6. [Logging Broker](https://github.com/Mums-Who-Code/C.Sharp.Basic.Software.Operations/blob/main/Tasks/Task%206.md)
+7. [Post Exposer](https://github.com/Mums-Who-Code/C.Sharp.Basic.Software.Operations/blob/main/Tasks/Task%207.md)
+8. [Select All Storage Broker](https://github.com/Mums-Who-Code/C.Sharp.Basic.Software.Operations/blob/main/Tasks/Task%208.md)
+9. [Retrieve All Foundation](https://github.com/Mums-Who-Code/C.Sharp.Basic.Software.Operations/blob/main/Tasks/Task%209.md)
+10. [Get All Exposer](https://github.com/Mums-Who-Code/C.Sharp.Basic.Software.Operations/blob/main/Tasks/Task%2010.md)
 11. Select By Id Storage Broker 
 12. Retrieve By Id Foundation 
 13. Get By Id Exposer 
