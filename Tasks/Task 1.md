@@ -1,7 +1,7 @@
 ## Listen
 [Initialize Console Application](https://youtu.be/1WqMh0ROH4s)
 
-## Read
+## Read / Refer
 [Console Application](https://docs.microsoft.com/en-us/dotnet/csharp/tutorials/console-teleprompter)
 
 ## Write
