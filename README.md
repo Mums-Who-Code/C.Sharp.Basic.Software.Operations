@@ -27,15 +27,15 @@ You will be leading your own project. Think about an object like Book, Person, A
 8. [Select All Storage Broker](https://github.com/Mums-Who-Code/C.Sharp.Basic.Software.Operations/blob/main/Tasks/Task%208.md)
 9. [Retrieve All Foundation](https://github.com/Mums-Who-Code/C.Sharp.Basic.Software.Operations/blob/main/Tasks/Task%209.md)
 10. [Get All Exposer](https://github.com/Mums-Who-Code/C.Sharp.Basic.Software.Operations/blob/main/Tasks/Task%2010.md)
-11. Select By Id Storage Broker 
-12. Retrieve By Id Foundation 
-13. Get By Id Exposer 
-14. Update Storage Broker 
-15. Modify Foundation 
-16. Put Exposer 
-17. Delete Storage Broker 
-18. Remove Foundation 
-19. Delete Exposer 
+11. [Select By Id Storage Broker](https://github.com/Mums-Who-Code/C.Sharp.Basic.Software.Operations/blob/main/Tasks/Task%2011.md)
+12. [Retrieve By Id Foundation](https://github.com/Mums-Who-Code/C.Sharp.Basic.Software.Operations/blob/main/Tasks/Task%2012.md)
+13. [Get By Id Exposer](https://github.com/Mums-Who-Code/C.Sharp.Basic.Software.Operations/blob/main/Tasks/Task%2013.md)
+14. [Update Storage Broker](https://github.com/Mums-Who-Code/C.Sharp.Basic.Software.Operations/blob/main/Tasks/Task%2014.md)
+15. [Modify Foundation](https://github.com/Mums-Who-Code/C.Sharp.Basic.Software.Operations/blob/main/Tasks/Task%2015.md)
+16. [Put Exposer](https://github.com/Mums-Who-Code/C.Sharp.Basic.Software.Operations/blob/main/Tasks/Task%2016.md)
+17. [Delete Storage Broker](https://github.com/Mums-Who-Code/C.Sharp.Basic.Software.Operations/blob/main/Tasks/Task%2017.md)
+18. [Remove Foundation](https://github.com/Mums-Who-Code/C.Sharp.Basic.Software.Operations/blob/main/Tasks/Task%2018.md)
+19. [Delete Exposer](https://github.com/Mums-Who-Code/C.Sharp.Basic.Software.Operations/blob/main/Tasks/Task%2019.md)
 
 ## Next Steps
-Go to 'C# - End to End Product Development' track
+Go to ['C# - End to End Product Development'](https://github.com/Mums-Who-Code/C.Sharp.End.To.End) track
