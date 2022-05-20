@@ -38,4 +38,6 @@ You will be leading your own project. Think about an object like Book, Person, A
 19. [Delete Exposer](https://github.com/Mums-Who-Code/C.Sharp.Basic.Software.Operations/blob/main/Tasks/Task%2019.md)
 
 ## Next Steps
-Go to ['C# - End to End Product Development'](https://github.com/Mums-Who-Code/C.Sharp.End.To.End) track
+Your are now open to explore any of the below track based on your interest. In your jounery path of being a full-stack engineer then start with Backend.
+Go to ['C# - Backend'](https://github.com/Mums-Who-Code/C.Sharp.Backend) track
+Go to ['C# - Frontend'](https://github.com/Mums-Who-Code/C.Sharp.Frontend) track
